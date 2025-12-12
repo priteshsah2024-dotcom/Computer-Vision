@@ -2,6 +2,9 @@
 
 This project implements a Convolutional Neural Network (CNN) for multi-class object classification on the CIFAR-10 dataset using PyTorch.
 
+#Google Colab Link to Notebook
+https://colab.research.google.com/drive/1yHvOi3_d_Ge3SyL53BT9OIJAjR0OkuM0?usp=sharing
+
 ## Project Structure
 
 ```
@@ -241,4 +244,5 @@ This project meets all requirements for the Computer Vision and AI module (CMS22
 ## License
 
 This project is for educational purposes as part of the Computer Vision and AI module (CMS22202).
+
 
